@@ -99,5 +99,5 @@ const Navbar: React.FC = () => {
   );
 };
 
-// Erreur : export par défaut mal aligné
+
 export default Navbar;
