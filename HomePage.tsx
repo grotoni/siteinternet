@@ -19,7 +19,7 @@ const HomePage: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl sm:text-3xl font-bold text-white mb-4">Offre spéciale</h2>
           <p className="text-xl text-white/90 mb-6">
-            Profitez de 20% de réduction sur votre premier achat. Utilisez le code : FIRST20
+            Profitez de 20% de réduction sur votre premier achat. Utilisez le code : mpgbh78
           </p>
           <button className="bg-white text-blue-600 px-6 py-3 rounded-md font-medium hover:bg-blue-50 transition-colors">
             Acheter maintenant
