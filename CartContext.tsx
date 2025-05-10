@@ -86,5 +86,5 @@ export const CartProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
   );
 };
 
-// Erreur : export par défaut mal aligné
+
 export default CartProvider;
