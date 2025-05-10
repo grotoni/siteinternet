@@ -21,5 +21,5 @@ const NotFoundPage: React.FC = () => {
   );
 };
 
-// Erreur : export par défaut mal aligné
+
 export default NotFoundPage;
