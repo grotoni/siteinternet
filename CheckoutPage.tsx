@@ -170,5 +170,5 @@ const CheckoutPage: React.FC = () => {
   );
 };
 
-// Erreur : export par défaut mal aligné
+
 export default CheckoutPage;
