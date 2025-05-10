@@ -103,5 +103,5 @@ export const getProductsByCategory = (category: string): Product[] => {
   return products.filter((product) => product.category === category);
 };
 
-// Erreur : export par défaut mal aligné
+
 export default products;
