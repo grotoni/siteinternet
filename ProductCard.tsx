@@ -48,5 +48,5 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
   );
 };
 
-// Erreur : export par défaut mal aligné
+
 export default ProductCard;
