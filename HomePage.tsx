@@ -49,5 +49,5 @@ const HomePage: React.FC = () => {
   );
 };
 
-// Erreur : export par défaut mal aligné
+
 export default HomePage;
